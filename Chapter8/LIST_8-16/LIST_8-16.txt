@@ -1,0 +1,33 @@
+============================= test session starts =============================
+platform darwin -- Python 3.6.1, pytest-3.2.2, py-1.4.34, pluggy-0.4.0
+rootdir: /Users/peketamin/python, inifile:
+collected 1 item
+
+test_scraper.py F
+
+================================== FAILURES ===================================
+_____________________________ test_scraper_title ______________________________
+    def test_scraper_title():
+    html = """<html>
+    <title>これはタイトルです</title>
+    <body><p>これは本文です</p></body>
+    </html>"""
+
+>   assert scrape_title(html) == "これはタイトルです"
+
+test_scraper.py:12:
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __
+
+html = '<html>\n <title>これはタイトルです</title>\n <body><p>これは本文です</p></body>\n </html>'
+
+    def scrape_title(html):
+        """<title>タグの内容を返す."""
+        soup = BeautifulSoup(html, "html.parser")
+        title_elm = soup.find('titel')
+        if title_elm is None:
+>           raise ScraperException('titleタグが見つかりませんでした')
+E           scraper.ScraperException: titleタグが見つかりませんでした
+
+
+scraper.py:13: ScraperException
+========================== 1 failed in 0.06 seconds ===========================

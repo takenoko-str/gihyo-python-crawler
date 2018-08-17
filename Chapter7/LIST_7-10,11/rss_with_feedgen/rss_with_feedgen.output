@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:book="http://my-service.com/xmlns/book" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>芥川龍之介の新着作品</title>
+    <link>http://www.aozora.gr.jp/index_pages/person879.html</link>
+    <description>青空文庫に追加された芥川龍之介の新着作品のフィード</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 09 Sep 2017 23:06:42 +0000</lastBuildDate>
+    <item>
+      <title>羅生門</title>
+      <link>http://www.aozora.gr.jp/cards/000879/card128.html</link>
+      <description>&lt;a href="http://www.aozora.gr.jp/index_pages/person879.html"&gt;芥川&lt;/a&gt;の5作目の短編小説。次の作品『今昔物語集』巻二十九「羅城門登上層見死人盗人語第十八」に題材を取り、人間のエゴイズムについて作者自身の解釈を加えたものである。</description>
+      <book:writer id="879">芥川 竜之介</book:writer>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+<item rdf:about="http://www.aozora.gr.jp/cards/001383/card58093.html">
+  <title>谷崎 潤一郎：痴人の愛</title>
+  <link>http://www.aozora.gr.jp/cards/001383/card58093.html</link>
+  <dc:creator>谷崎 潤一郎</dc:creator>
+  <dc:date>2017-07-30T00:00:00+09:00</dc:date>
+  <dc:subject>新規公開作品</dc:subject>
+  <description>2017-07-30公開　　入力：daikichi, 校正：悠悠自炊　　(171k/549k)　“一　私はこれから、あまり世間に類例がないだろうと思われる私達夫婦の間柄に就いて、出来るだけ正直に、ざっくばらんに、有りのままの事実を書いて見ようと思います。それは私自身に取って忘れがたない貴い記録であると同時に、恐らくは読者諸君に取っても、きっと何かの参考資料となるに違いない。殊にこの頃のように日本もだんだん国際的に顔が広くなって来て、内地人と外国人とが盛んに交際する、いろんな主義やら思想やらが這入...”</description>
+</item>

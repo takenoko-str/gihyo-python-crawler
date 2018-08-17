@@ -1,0 +1,19 @@
+[ERROR] 2018-08-16 23:13:04,464 __main__ logging_sample.py:40 ページが見つかりませんでした (logging_example)
+[ERROR] 2018-08-16 23:13:04,466 __main__ logging_sample.py:45 リクエスト中に例外が起きました: MissingSchema("Invalid URL '#invalid_url': No schema supplied. Perhaps you meant http://#invalid_url?") (logging_example)
+Traceback (most recent call last):
+  File "/Users/takuya/crawrer_scrayping_sample/Chapter5/LIST_5-5/logging_sample.py", line 43, in logging_example
+    r = requests.get('#invalid_url', timeout=1)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/api.py", line 72, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/sessions.py", line 498, in request
+    prep = self.prepare_request(req)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/sessions.py", line 441, in prepare_request
+    hooks=merge_hooks(request.hooks, self.hooks),
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/models.py", line 309, in prepare
+    self.prepare_url(url, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/models.py", line 383, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '#invalid_url': No schema supplied. Perhaps you meant http://#invalid_url?
+[ERROR] 2018-08-16 23:13:20,480 __main__ logging_sample.py:40 ページが見つかりませんでした (logging_example)

@@ -1,0 +1,8 @@
+    <!-- QA -->
+      <div class="tab-pane article" id="qa">
+            <h3>書籍への問い合わせ</h3>
+        <p>正誤表、追加情報をご確認の上、<a href="https://www.shoeisha.co.jp/book/qa/form/9784798146072">こちら</a>よりお問い合わせください</p>
+              <h3>書影の利用許諾について</h3>
+        <p>本書籍に関する利用許諾申請は<a href="https://www.shoeisha.co.jp/book/apply/9784798146072">こちら</a>になります
+</p>
+      </div>

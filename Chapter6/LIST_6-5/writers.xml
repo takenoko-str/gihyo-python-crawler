@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <writer id="879" name="芥川 竜之介">
+        <work id="3757">
+            <title>世の中と女</title>
+            <mojidukai_type id="1">新字旧仮名</mojidukai_type>
+            <url>http://www.aozora.gr.jp/cards/000879/card3757.html</url>
+        </work>
+        <work id="128">
+            <title>羅生門</title>
+            <mojidukai_type id="2">旧字旧仮名</mojidukai_type>
+            <url>http://www.aozora.gr.jp/cards/000879/card128.html</url>
+        </work>
+        <work id="127">
+            <title>羅生門</title>
+            <mojidukai_type id="1">新字旧仮名</mojidukai_type>
+            <url>http://www.aozora.gr.jp/cards/000879/card127.html</url>
+        </work>
+    </writer>
+</catalog>

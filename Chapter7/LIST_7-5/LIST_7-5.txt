@@ -1,0 +1,6 @@
+    <item>
+      <title>羅生門</title>
+      <link>http://www.aozora.gr.jp/cards/000879/card128.html</link>
+      <description>芥川の5作目の短編小説。次の作品『今昔物語集』巻二十九「羅城門登上層見死人盗人語第十八」に題材を取り、人間のエゴイズムについて作者自身の解釈を加えたものである。</description>
+      <book:writer id="879">芥川 竜之介</book:writer>
+    </item>

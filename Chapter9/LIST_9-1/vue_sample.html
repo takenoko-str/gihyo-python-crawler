@@ -1,0 +1,24 @@
+<meta charset="utf-8">
+<script src="https://unpkg.com/vue"></script>
+
+<div id="app">
+  <h1>お気に入り映画ランキングTop3</h1>
+  <ol>
+    <li v-for="item in items">
+      <span class="cinema_title">{{ item }}</span>
+    </li>
+  </ol>
+</div>
+
+<script>
+new Vue({
+  el: '#app',
+  data: {
+    items: [
+      'AKIRA (監督: 大友克洋)',
+      '２００１年宇宙の旅 (監督: スタンリー・キューブリック)',
+      'キツツキと雨 (監督: 沖田修一)',
+    ]
+  }
+})
+</script>

@@ -1,0 +1,5 @@
+    <image>
+      <url>http://liftoff.msfc.nasa.gov/thumbnail.png</url>
+      <title>Liftoff News</title>
+      <link>http://liftoff.msfc.nasa.gov/</link>
+    </image>

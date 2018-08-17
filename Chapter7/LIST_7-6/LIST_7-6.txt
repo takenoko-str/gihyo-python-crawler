@@ -1,0 +1,4 @@
+<description>
+  作品ページは次のリンクを参照してください。
+  <a href="http://www.aozora.gr.jp/cards/000879/card128.html">羅生門</a>
+</description>

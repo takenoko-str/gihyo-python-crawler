@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:hatena="http://www.hatena.ne.jp/info/xmlns#"
+ xmlns:media="http://search.yahoo.com/mrss"
+>
+  <channel rdf:about="http://b.hatena.ne.jp/search/tag?safe=on&amp;sort=recent&amp;q=%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92&amp;users=100">
+    <title>タグ「機械学習」を検索 - はてなブックマーク</title>
+    <link>http://b.hatena.ne.jp/search/tag?safe=on&amp;sort=recent&amp;q=%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92&amp;users=100</link>
+    <description>タグ「機械学習」を検索 - はてなブックマーク</description>
+
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://cocodrips.hateblo.jp/entry/2017/09/03/185130" />
+        <rdf:li rdf:resource="https://www.slideshare.net/HirokiTeranishi1/ss-79363691" />
+（…中略…）
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://cocodrips.hateblo.jp/entry/2017/09/03/185130">
+    <title>Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ - ぴよぴよ.py</title>
+      <link>http://cocodrips.hateblo.jp/entry/2017/09/03/185130</link>
+      <description>2017 - 09 - 03 Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ 今日参加してきた Deep Learning Acceleration勉強会 - connpass が非常に面白かった. 一度聞いただけでは全然理解できなかったので、後から読み返すように公開された資料や論文などをメモをまとめた。 私自身は仕事で一度tensorfl...</description>
+      <content:encoded>&lt;blockquote cite=&quot;http://cocodrips.hateblo.jp/entry/2017/09/03/185130&quot; title=&quot;Deep Learning Acceleration勉強会(#DLAccel)に参加してきたのでまとめ - ぴよぴよ.py&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fcocodrips.hateblo.jp%2Fentry%2F2017%2F09%2F03%2F185130&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;http://cocodrips.hateblo.jp/entry/2017/09/03/185130&quot;&gt;Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ - ぴよぴよ.py&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://cocodrips.hateblo.jp/entry/2017/09/03/185130&quot;&gt;&lt;img src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/344372414-1504435218.jpg&quot; alt=&quot;Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ - ぴよぴよ.py&quot; title=&quot;Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ - ぴよぴよ.py&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;2017 - 09 - 03 Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ 今日参加してきた Deep Learning Acceleration勉強会 - connpass が非常に面白かった. 一度聞いただけでは全然理解できなかったので、後から読み返すように公開された資料や論文などをメモをまとめた。 私自身は仕事で一度tensorfl...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://cocodrips.hateblo.jp/entry/2017/09/03/185130&quot;&gt;&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://cocodrips.hateblo.jp/entry/2017/09/03/185130&quot; alt=&quot;はてなブックマーク - Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ - ぴよぴよ.py&quot; title=&quot;はてなブックマーク - Deep Learning Acceleration勉強会(# DLAccel)に参加してきたのでまとめ - ぴよぴよ.py&quot; border=&quot;0&quot; style=&quot;border:none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://cocodrips.hateblo.jp/entry/2017/09/03/185130&quot;&gt;&lt;img src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot;alt=&quot;はてなブックマークに追加&quot; title=&quot;はてなブックマークに追加&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+    <dc:date>2017-09-03T19:39:36+09:00</dc:date>
+    <dc:subject>テクノロジー</dc:subject>
+    <hatena:bookmarkcount>182</hatena:bookmarkcount>
+  </item>
+  <item rdf:about="https://www.slideshare.net/HirokiTeranishi1/ss-79363691">
+    <title>ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見</title>
+    <link>https://www.slideshare.net/HirokiTeranishi1/ss-79363691</link>
+      <description>ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見 1. ディープラーニングのフレームワークを 使った自然言語処理研究の実装の知見 寺西 裕紀 奈良先端科学技術大学院大学 自然言語処理学研究室 2017年9月1日(金) 第15回SVM勉強会 2. • 自己紹介 • 機械学習は難しい • 実装の工夫 – Logging – Application – Preprocessing ...</description><content:encoded>&lt;blockquote cite=&quot;https://www.slideshare.net/HirokiTeranishi1/ss-79363691&quot; title=&quot;ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.slideshare.net%2FHirokiTeranishi1%2Fss-79363691&quot; alt=&quot;&quot; /&gt; &lt;a href=&quot;https://www.slideshare.net/HirokiTeranishi1/ss-79363691&quot;&gt;ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/HirokiTeranishi1/ss-79363691&quot;&gt;&lt;img src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/344318484-1504323632.jpg&quot; alt=&quot;ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見&quot; title=&quot;ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見 1. ディープラーニングのフレームワークを 使った自然言語処理研究の実装の知見 寺西 裕紀 奈良先端科学技術大学院大学 自然言語処理学研究室 2017年9月1日(金) 第15回SVM勉強会 2. • 自己紹介 • 機械学習は難しい • 実装の工夫 – Logging – Application – Preprocessing ...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/https://www.slideshare.net/HirokiTeranishi1/ss-79363691&quot;&gt;&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://www.slideshare.net/HirokiTeranishi1/ss-79363691&quot;alt=&quot;はてなブックマーク - ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見&quot; title=&quot;はてなブックマーク - ディープラーニングのフレームワークを使った自然言語処理研究の実装の知見&quot; border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?https://www.slideshare.net/HirokiTeranishi1/ss-79363691&quot;&gt;&lt;img src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot; title=&quot;はてなブックマークに追加&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+    <dc:date>2017-09-02T12:39:42+09:00</dc:date>
+    <dc:subject>テクノロジー</dc:subject>
+    <hatena:bookmarkcount>216</hatena:bookmarkcount>
+  </item>
+（…中略…）
+</rdf:RDF>

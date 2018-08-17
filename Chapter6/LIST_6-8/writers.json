@@ -1,0 +1,35 @@
+{
+  "writer": {
+    "id": 879,
+    "name": "芥川 竜之介",
+    "works": [
+      {
+        "id": 3757,
+        "title": "世の中と女",
+        "url": "http://www.aozora.gr.jp/cards/000879/card3757.html",
+        "mojidukai_type": {
+          "id": 1,
+          "name": "新字旧仮名"
+        }
+      },
+      {
+        "id": 128,
+        "title": "羅生門",
+        "url": "http://www.aozora.gr.jp/cards/000879/card128.html",
+        "mojidukai_type": {
+          "id": 2,
+          "name": "旧字旧仮名"
+        }
+      },
+      {
+        "id": 127,
+        "title": "羅生門",
+        "url": "http://www.aozora.gr.jp/cards/000879/card127.html",
+        "mojidukai_type": {
+          "id": 1,
+          "name": "新字旧仮名"
+        }
+      }
+    ]
+  }
+}
