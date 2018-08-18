@@ -1,3 +1,4 @@
+use aozora_bunko;
 CREATE TABLE `mojidukai_types` (
  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
  `name` varchar(8) NOT NULL DEFAULT '',

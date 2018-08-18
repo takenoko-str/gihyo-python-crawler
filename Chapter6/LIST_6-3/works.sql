@@ -1,3 +1,4 @@
+use aozora_bunko;
 CREATE TABLE `works` (
  `id` int(11) unsigned NOT NULL,
  `writer_id` int(11) NOT NULL,

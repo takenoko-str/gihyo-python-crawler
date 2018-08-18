@@ -1,3 +1,4 @@
+use aozora_bunko;
 CREATE TABLE `writers` (
   `id` int(11) unsigned NOT NULL,
   `name` varchar(128) NOT NULL DEFAULT '',

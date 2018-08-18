@@ -1,0 +1,2 @@
+CREATE DATABASE aozora_bunko DEFAULT CHARACTER SET utf8;
+
