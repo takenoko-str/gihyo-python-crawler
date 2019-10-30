@@ -1,11 +1,11 @@
 """ログ用モジュール."""
 import logging.config
 
-import settings
+from .settings import LOGGING_CONF
 
 
 def get_my_logger(name):
-    logging.config.dictConfig(settings.LOGGING_CONF)
+    logging.config.dictConfig(LOGGING_CONF)
     return logging.getLogger(name)
 
 

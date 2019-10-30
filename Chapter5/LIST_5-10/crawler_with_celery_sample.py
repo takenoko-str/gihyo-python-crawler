@@ -9,7 +9,7 @@ import requests
 from celery import Celery
 from pydub import AudioSegment
 
-from my_logging import get_my_logger 
+from .utils.my_logging import get_my_logger
 
 
 logger = get_my_logger(__name__)

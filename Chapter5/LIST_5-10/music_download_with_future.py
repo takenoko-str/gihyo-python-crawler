@@ -8,7 +8,7 @@ from urllib import parse
 
 import requests
 
-from my_logging import get_my_logger
+from .my_logging import get_my_logger
 
 logger = get_my_logger(__name__)
 
